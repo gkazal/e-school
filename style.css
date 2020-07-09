@@ -1,0 +1,116 @@
+.nav-logo{
+    width: 20%;
+}
+.banner-font{
+    color: green;
+}
+.banner-paragraph{
+    color: red;
+}
+.navbar{
+    background-color: rgba(213, 235, 215, 0.87)!important;
+}
+.banner-bg-color{
+    background-color: rgba(213, 235, 215, 0.87);
+}
+.sign-in-button{
+    background-color: #21B573;
+    width: 100px;
+    height: 40px;
+    border-radius: 33px;
+    border: none;
+    color: white;
+}
+.course-button{
+   
+    /* background-color: #21B573;
+    width: 120px;
+    height: 30px;
+    border-radius: 33px;
+    border: none;
+    color: white;
+    font-size: 10px; //card button aigula use krle resization pblm hoi..*/
+    
+    font-size: small;
+    padding: 5px 20px;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    background-color: #21B573;
+}
+.row-banner{
+    padding: 8%;
+}
+.nav-box{
+    position: absolute;
+    width: 1440px;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+    background-color: #bde4bd;
+}
+/* .info-sec .img{
+    padding-left: 20px;
+    margin: 0px;
+    
+}  */
+/* .info-box{
+    border-radius: 10px;
+    padding: 40px 0px;
+} */
+/* .info-section{
+    margin-top: 40px;
+    margin-bottom: 80px;
+} */
+.green-bg:hover{
+    background-color: white;
+    
+
+}
+.green-bg{
+    background-color: #F8FFF8;
+}
+
+
+.card-title{
+    font-size: 20px;
+}
+
+.card{
+    padding: 20px;
+    border-style: none;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px rgba(0,0,0,0.1);
+
+}
+.testimonial-1{
+    border-top-style: groove;
+    border-top-width: 5px;
+    border-top-color:  cyan;
+}
+.testimonial-2{
+    border-top-style: groove;
+    border-top-width: 5px;
+    border-top-color:  purple;
+}
+.testimonial-3{
+    border-top-style: groove;
+    border-top-width: 5px;
+    border-top-color:  greenyellow;
+}
+.footer-bg-color{
+    background-color: #282531;
+    color: white;
+    padding: 30px;
+}
+.footer{
+    text-align: center;
+    color: #CDCDCD;
+}
+.footer-first-col{
+    color: #CDCDCD;
+}
+
+/* //different card a  kivabe box shadow style color chng kora jabe */
+
+/* when i used it then resization problems occurd. position absoulute korle seta hocce.but relative korle hoi na */
